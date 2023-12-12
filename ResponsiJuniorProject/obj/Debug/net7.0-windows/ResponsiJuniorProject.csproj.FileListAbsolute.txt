@@ -1,0 +1,63 @@
+C:\Users\ismailazmi\Desktop\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\bin\Debug\net7.0-windows\ResponsiJuniorProject.exe
+C:\Users\ismailazmi\Desktop\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\bin\Debug\net7.0-windows\ResponsiJuniorProject.deps.json
+C:\Users\ismailazmi\Desktop\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\bin\Debug\net7.0-windows\ResponsiJuniorProject.runtimeconfig.json
+C:\Users\ismailazmi\Desktop\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\bin\Debug\net7.0-windows\ResponsiJuniorProject.dll
+C:\Users\ismailazmi\Desktop\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\bin\Debug\net7.0-windows\ResponsiJuniorProject.pdb
+C:\Users\ismailazmi\Desktop\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ismailazmi\Desktop\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ismailazmi\Desktop\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\ismailazmi\Desktop\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.csproj.AssemblyReference.cache
+C:\Users\ismailazmi\Desktop\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.Form1.resources
+C:\Users\ismailazmi\Desktop\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.csproj.GenerateResource.cache
+C:\Users\ismailazmi\Desktop\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismailazmi\Desktop\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.AssemblyInfoInputs.cache
+C:\Users\ismailazmi\Desktop\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.AssemblyInfo.cs
+C:\Users\ismailazmi\Desktop\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.csproj.CoreCompileInputs.cache
+C:\Users\ismailazmi\Desktop\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.csproj.CopyComplete
+C:\Users\ismailazmi\Desktop\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.dll
+C:\Users\ismailazmi\Desktop\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\refint\ResponsiJuniorProject.dll
+C:\Users\ismailazmi\Desktop\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.pdb
+C:\Users\ismailazmi\Desktop\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.genruntimeconfig.cache
+C:\Users\ismailazmi\Desktop\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ref\ResponsiJuniorProject.dll
+C:\Users\putraagung\Downloads\473264-IsmailAzmi-ResponsiJuniorProject (3)\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\bin\Debug\net7.0-windows\ResponsiJuniorProject.exe
+C:\Users\putraagung\Downloads\473264-IsmailAzmi-ResponsiJuniorProject (3)\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\bin\Debug\net7.0-windows\ResponsiJuniorProject.deps.json
+C:\Users\putraagung\Downloads\473264-IsmailAzmi-ResponsiJuniorProject (3)\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\bin\Debug\net7.0-windows\ResponsiJuniorProject.runtimeconfig.json
+C:\Users\putraagung\Downloads\473264-IsmailAzmi-ResponsiJuniorProject (3)\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\bin\Debug\net7.0-windows\ResponsiJuniorProject.dll
+C:\Users\putraagung\Downloads\473264-IsmailAzmi-ResponsiJuniorProject (3)\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\bin\Debug\net7.0-windows\ResponsiJuniorProject.pdb
+C:\Users\putraagung\Downloads\473264-IsmailAzmi-ResponsiJuniorProject (3)\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\putraagung\Downloads\473264-IsmailAzmi-ResponsiJuniorProject (3)\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\putraagung\Downloads\473264-IsmailAzmi-ResponsiJuniorProject (3)\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\putraagung\Downloads\473264-IsmailAzmi-ResponsiJuniorProject (3)\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.csproj.AssemblyReference.cache
+C:\Users\putraagung\Downloads\473264-IsmailAzmi-ResponsiJuniorProject (3)\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.Form1.resources
+C:\Users\putraagung\Downloads\473264-IsmailAzmi-ResponsiJuniorProject (3)\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.csproj.GenerateResource.cache
+C:\Users\putraagung\Downloads\473264-IsmailAzmi-ResponsiJuniorProject (3)\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\putraagung\Downloads\473264-IsmailAzmi-ResponsiJuniorProject (3)\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.AssemblyInfoInputs.cache
+C:\Users\putraagung\Downloads\473264-IsmailAzmi-ResponsiJuniorProject (3)\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.AssemblyInfo.cs
+C:\Users\putraagung\Downloads\473264-IsmailAzmi-ResponsiJuniorProject (3)\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.csproj.CoreCompileInputs.cache
+C:\Users\putraagung\Downloads\473264-IsmailAzmi-ResponsiJuniorProject (3)\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.csproj.CopyComplete
+C:\Users\putraagung\Downloads\473264-IsmailAzmi-ResponsiJuniorProject (3)\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.dll
+C:\Users\putraagung\Downloads\473264-IsmailAzmi-ResponsiJuniorProject (3)\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\refint\ResponsiJuniorProject.dll
+C:\Users\putraagung\Downloads\473264-IsmailAzmi-ResponsiJuniorProject (3)\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.pdb
+C:\Users\putraagung\Downloads\473264-IsmailAzmi-ResponsiJuniorProject (3)\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.genruntimeconfig.cache
+C:\Users\putraagung\Downloads\473264-IsmailAzmi-ResponsiJuniorProject (3)\473264-IsmailAzmi-ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ref\ResponsiJuniorProject.dll
+C:\Users\putraagung\474928_Putra Agung A.M. Sitorus_ResponsiJuniorProject\ResponsiJuniorProject\bin\Debug\net7.0-windows\ResponsiJuniorProject.exe
+C:\Users\putraagung\474928_Putra Agung A.M. Sitorus_ResponsiJuniorProject\ResponsiJuniorProject\bin\Debug\net7.0-windows\ResponsiJuniorProject.deps.json
+C:\Users\putraagung\474928_Putra Agung A.M. Sitorus_ResponsiJuniorProject\ResponsiJuniorProject\bin\Debug\net7.0-windows\ResponsiJuniorProject.runtimeconfig.json
+C:\Users\putraagung\474928_Putra Agung A.M. Sitorus_ResponsiJuniorProject\ResponsiJuniorProject\bin\Debug\net7.0-windows\ResponsiJuniorProject.dll
+C:\Users\putraagung\474928_Putra Agung A.M. Sitorus_ResponsiJuniorProject\ResponsiJuniorProject\bin\Debug\net7.0-windows\ResponsiJuniorProject.pdb
+C:\Users\putraagung\474928_Putra Agung A.M. Sitorus_ResponsiJuniorProject\ResponsiJuniorProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\putraagung\474928_Putra Agung A.M. Sitorus_ResponsiJuniorProject\ResponsiJuniorProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\putraagung\474928_Putra Agung A.M. Sitorus_ResponsiJuniorProject\ResponsiJuniorProject\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\putraagung\474928_Putra Agung A.M. Sitorus_ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.csproj.AssemblyReference.cache
+C:\Users\putraagung\474928_Putra Agung A.M. Sitorus_ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.Form1.resources
+C:\Users\putraagung\474928_Putra Agung A.M. Sitorus_ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.csproj.GenerateResource.cache
+C:\Users\putraagung\474928_Putra Agung A.M. Sitorus_ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\putraagung\474928_Putra Agung A.M. Sitorus_ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.AssemblyInfoInputs.cache
+C:\Users\putraagung\474928_Putra Agung A.M. Sitorus_ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.AssemblyInfo.cs
+C:\Users\putraagung\474928_Putra Agung A.M. Sitorus_ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.csproj.CoreCompileInputs.cache
+C:\Users\putraagung\474928_Putra Agung A.M. Sitorus_ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.csproj.CopyComplete
+C:\Users\putraagung\474928_Putra Agung A.M. Sitorus_ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.dll
+C:\Users\putraagung\474928_Putra Agung A.M. Sitorus_ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\refint\ResponsiJuniorProject.dll
+C:\Users\putraagung\474928_Putra Agung A.M. Sitorus_ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.pdb
+C:\Users\putraagung\474928_Putra Agung A.M. Sitorus_ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ResponsiJuniorProject.genruntimeconfig.cache
+C:\Users\putraagung\474928_Putra Agung A.M. Sitorus_ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net7.0-windows\ref\ResponsiJuniorProject.dll
